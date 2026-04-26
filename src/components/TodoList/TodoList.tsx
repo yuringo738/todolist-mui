@@ -56,7 +56,6 @@ const TodoList = ({
         setOpen(false);
     };
 
-    // ⭐ 単体削除（ここがポイント）
     const handleDelete = (todo: Todo) => {
         deleteTodo(todo.id);
 
