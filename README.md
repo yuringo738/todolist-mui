@@ -36,8 +36,8 @@ Todo アプリを作成しました。
 
 bash
 
-`npm install
-npm run dev`
+`npm install`
+`npm run dev`
 
 ---
 
