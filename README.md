@@ -40,6 +40,7 @@ bash
 `npm run dev`
 
 ---
+https://github.com/yuringo738/todolist-mui/issues/1
 
 ## 今後の改善
 
