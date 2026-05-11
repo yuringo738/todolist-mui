@@ -32,6 +32,12 @@ Todo アプリを作成しました。
 
 ---
 
+## 動作確認
+
+https://github.com/yuringo738/todolist-mui/issues/1#issue-4417619010
+
+---
+
 ## セットアップ
 
 bash
@@ -40,7 +46,6 @@ bash
 `npm run dev`
 
 ---
-https://github.com/yuringo738/todolist-mui/issues/1
 
 ## 今後の改善
 
