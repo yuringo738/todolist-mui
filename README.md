@@ -36,12 +36,6 @@ https://github.com/user-attachments/assets/314c5354-febc-44c1-ae65-d27c0012cf15
 
 ---
 
-## 動作確認
-
-https://github.com/yuringo738/todolist-mui/issues/1#issue-4417619010
-
----
-
 ## セットアップ
 
 bash
