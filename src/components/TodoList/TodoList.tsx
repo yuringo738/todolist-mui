@@ -126,8 +126,8 @@ const TodoList = ({
                 </DialogTitle>
 
                 <DialogActions>
-                    <Button onClick={handleCancel}>キャンセル</Button>
-                    <Button color="error" onClick={handleConfirm}>OK</Button>
+                    <Button variant="outlined" onClick={handleCancel}>キャンセル</Button>
+                    <Button variant="contained" color="error" onClick={handleConfirm}>OK</Button>
                 </DialogActions>
             </Dialog>
 

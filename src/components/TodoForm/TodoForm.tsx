@@ -8,8 +8,10 @@ type Props = {
 const TodoForm = ({ addTodo }: Props) => {
     const [text, setText] = useState("");
 
+    const inValid = text.trim() !== "";
+
     const handleSubmit = () => {
-        if (!text.trim()) return;
+        if (!inValid) return;
 
         addTodo(text);
         setText("");
@@ -31,7 +33,11 @@ const TodoForm = ({ addTodo }: Props) => {
             />
 
             <Button variant="contained"
-                color="primary" sx={{ width: 100 }} onClick={handleSubmit} >
+                color="primary"
+                sx={{ width: 100 }}
+                onClick={handleSubmit}
+                disabled={!inValid}
+            >
                 追加
             </Button>
         </Stack>
