@@ -23,7 +23,7 @@ Todo アプリを作成しました。
 
 ---
 
-https://github.com/user-attachments/assets/aa3b9696-444a-46c5-ba87-02a2a934a0c7
+https://github.com/user-attachments/assets/c7135217-84a2-4a6b-872b-5c4e0b062f92
 
 ---
 
